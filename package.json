@@ -1,0 +1,29 @@
+{
+    "name": "frost-assetman-ton",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@noble/hashes": "^1.8.0",
+        "@ton/core": "^0.61.0",
+        "@ton/crypto": "^3.3.0",
+        "@ton/ton": "^15.3.1",
+        "dotenv": "^17.2.1",
+        "frost-lib": "file:/home/sadegh/Projects/zellular/frost-lib"
+    },
+    "devDependencies": {
+        "@types/node": "^20.19.9",
+        "@vitest/expect": "^3.2.4",
+        "ts-node": "^10.9.2",
+        "tsx": "^4.20.3",
+        "typescript": "^5.9.2",
+        "vite": "latest",
+        "vitest": "^3.2.4"
+    }
+}
