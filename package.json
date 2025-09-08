@@ -15,7 +15,7 @@
         "@ton/crypto": "^3.3.0",
         "@ton/ton": "^15.3.1",
         "dotenv": "^17.2.1",
-        "frost-lib": "file:/home/sadegh/Projects/zellular/frost-lib"
+        "frost-lib": "git://github.com/sadeghte/frost-lib.git"
     },
     "devDependencies": {
         "@types/node": "^20.19.9",
